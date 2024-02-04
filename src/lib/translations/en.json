@@ -1,0 +1,7 @@
+{
+  "error": {
+    "auth": {
+      "unauthorized": "Login invalid"
+    }
+  }
+}
